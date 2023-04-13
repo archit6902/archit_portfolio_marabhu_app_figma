@@ -1,0 +1,236 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 108rem;
+}.responsive-K7W {
+  box-sizing: border-box;
+  padding: 3rem 2.1rem;
+  width: 100%;
+  height: 120rem;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(-141.63deg, #012500 -400.32%, #046602 480.43%);
+}
+.responsive-K7W .main-v1-WBz {
+  width: 100%;
+  height: 110.45rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg {
+  box-sizing: border-box;
+  padding: 0rem 1.5rem 3.6rem 1.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig {
+  margin-right: 22.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig .group-1-aNC {
+  margin-bottom: 3.2rem;
+  box-sizing: border-box;
+  padding: 2.3rem 1.25rem 2.4rem 1.25rem;
+  width: 40.3rem;
+  height: 10rem;
+  border: solid 0.1rem #012700;
+  background-color: #275626;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig .group-1-aNC .name-text-uBW {
+  width: 35.35rem;
+  height: 100%;
+  position: relative;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig .group-1-aNC .name-text-uBW .archit-Eja {
+  width: 14.8rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 20.55rem;
+  top: 0.4rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #00ff76;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig .group-1-aNC .name-text-uBW .item--BYL {
+  width: 21.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #00ff76;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .auto-group-cywz-sig .full-stack-android-app-developer-firebase-developer-cNk {
+  max-width: 55.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.115;
+  color: #00ff76;
+  font-family: Comfortaa, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .name-profile-group-azU .archit-profile-photo-1-KY4 {
+  width: 22.8rem;
+  height: 27.1rem;
+  border: solid 0.1rem #023601;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/archit-profile-photo-1-bg.png');
+  border-radius: 6rem;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .auto-group-mvtv-HEg .aim-ktG {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.185;
+  color: #00ff76;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 {
+  margin-bottom: 4.2rem;
+  box-sizing: border-box;
+  padding-top: 0.3rem;
+  width: 100%;
+  height: 35.8rem;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .auto-group-osr6-CVN {
+  margin-right: 20.6rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .auto-group-osr6-CVN .creator-marabhu-android-app-hBE {
+  margin-bottom: 1.5rem;
+  max-width: 51.1rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.115;
+  color: #00ff76;
+  font-family: Comfortaa, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .auto-group-osr6-CVN .creator-marabhu-android-app-hBE .creator-marabhu-android-app-hBE-sub-0 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.115;
+  color: #00ff76;
+  font-family: Comfortaa, 'Source Sans Pro';
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .auto-group-osr6-CVN .creator-marabhu-android-app-hBE .creator-marabhu-android-app-hBE-sub-1 {
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .auto-group-osr6-CVN .image-1-s7e {
+  width: 51.2rem;
+  height: 25rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-banners-VL4 .marabhuappinstallationandwebsiteposterlightbackground-1-a24 {
+  width: 32rem;
+  height: 32rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-about-gKz {
+  margin: 0rem 5.6rem 4.55rem 0rem;
+  max-width: 98.2rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.115;
+  color: #00ff76;
+  font-family: Comfortaa, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-link-group-aAU {
+  margin: 0rem 15.3rem 0rem 15.2rem;
+  width: calc(100% - 30.5rem);
+  height: 5.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-link-group-aAU .marabhu-app-link-uCk {
+  width: 73.3rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.185;
+  color: #00ff76;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.responsive-K7W .main-v1-WBz .marabhu-app-link-group-aAU .marabhu-app-link-1Wg {
+  width: 73.3rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.185;
+  color: #00ff76;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+}
